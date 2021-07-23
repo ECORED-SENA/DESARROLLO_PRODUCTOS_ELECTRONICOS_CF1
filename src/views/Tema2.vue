@@ -33,8 +33,8 @@
       .py-4.py-md-5(titulo="Reporte de diagnóstico" :icono="require('@/assets/template/tema-2-4.svg')")
         .row
           .col-12.col-lg-7
-            p El listado de errores del fabricante es proporcionado para facilitar a los clientes la solución a problemas y encontrar fácilmente la falla del circuito o del dispositivo.  Están basados en las autopruebas en fábrica con técnicas caza de fallas y en la información de los propios clientes que reportan al fabricante.
-            p.mt-3 Los listados de errores del fabricante son publicados frecuentemente en las respectivas páginas web o entregados en los manuales de los equipos o dispositivos electrónicos.  Algunos fabricantes codifican su respectivo listado de errores.  
+            p El reporte de diagnóstico se utiliza para registrar adecuadamente las fallas y que pueda servir para solucionar el caso del reporte, pero también para el análisis del equipo e inclusión en el listado de errores del fabricante, si es un error o falla que le compete.
+            p.mt-3 Los reportes de diagnóstico se pueden registrar en formatos como listas de chequeo o en formularios en línea que almacenan directamente la información.
             .row.mt-5 
               .col-12
                 .cajon.color-acento-botones.p-4.mb-4.bg-amarillo-claro

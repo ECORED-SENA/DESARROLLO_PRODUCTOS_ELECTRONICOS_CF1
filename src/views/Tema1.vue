@@ -77,7 +77,7 @@
               p El sistema internacional de medidas está basado en el metro, cuyo símbolo es m, tiene múltiplos y submúltiplos denominados con prefijos, siempre basados en divisiones o amplificaciones por 10. #[strong El metro, actualmente, se define como la distancia que recorre la luz en el vacío durante un intervalo de 1/299.792.458 de segundo.] 
     .row.mt-5 
       figure.p-0
-        img(src="@/assets/template/tema-1-8.png", alt="Texto que describa la imagen")
+        img(src="@/assets/template/tema-1-8.svg", alt="Texto que describa la imagen")
     .row.mt-5 
       .col-lg-2.d-none.d-lg-flex.rounded-25.bg-amarillo.py-3.px-5.text-center.align-left-center
         figure.align-self-center
@@ -92,7 +92,7 @@
             .col-12
               p #[strong El sistema anglosajón] es utilizado en países de habla inglesa y presenta algunas diferencias entre la utilización en los Estados Unidos y el Reino Unido, pues no está basado en un acuerdo internacional ni tiene un control supranacional, y #[strong fue inicialmente conocido como sistema imperial.] 
     .titulo-segundo.mt-5
-      #t_1_2.h4 1.2  Magnitudes eléctricas y electrónicas0
+      #t_1_2.h4 1.2  Magnitudes eléctricas y electrónicas
     .row.mt-5
       .col-12.col-lg-7
         p #[strong Las magnitudes eléctricas y electrónicas consisten básicamente en corriente, voltaje (tensión) y resistencia.] Se relacionan con fórmulas matemáticas, basadas en leyes de relaciones de la naturaleza, por lo general, físicas, como la Ley de Coulomb.
@@ -160,7 +160,7 @@
           .col-10.col-lg-8.offset-1.offset-lg-2.mt-4
             p.mb-4.borde-secundario-izq.mx-3.px-3 #[strong Figura:] Gráfica representativa de la resistencia
             figure.mt-4
-              img(src="@/assets/template/tema-1-14.png", alt="Texto que describa la imagen")
+              img(src="@/assets/template/tema-1-15.png", alt="Texto que describa la imagen")
             figcaption Nota: Tomada de Julián (s. f.).
         .row.mt-4 
           .col-12
@@ -178,14 +178,14 @@
           .col-10.col-lg-8.offset-1.offset-lg-2.mt-4
             p.mb-4.borde-secundario-izq.mx-3.px-3 #[strong Figura:] Potencia absorbida por un elemento
             figure.mt-4
-              img(src="@/assets/template/tema-1-15.png", alt="Texto que describa la imagen")
+              img(src="@/assets/template/tema-1-16.png", alt="Texto que describa la imagen")
             figcaption Nota: Tomada de Acosta (s. f.).
         p.mt-4 En atención a que la potencia absorbida en un elemento dado puede ser una cantidad positiva o negativa, dependiendo de la relación entre el voltaje y la corriente del elemento dado, puede expresarse que el elemento absorbe vatios, o en forma equivalente, suministra o entrega vatios.
       .tarjeta.color-acento-botones--borde.p-4(titulo="5. Continuidad")
         p En matemáticas, una función continua es aquella para la cual, intuitivamente, para puntos cercanos del dominio se producen pequeñas variaciones en los valores de la función; aunque en rigor, en un espacio métrico como en variable real, significa que pequeñas variaciones de la función implican que deben estar cercanos los puntos (Wikipedia, 2021).
         p.mt-4 Las medidas de continuidad eléctrica se pueden medir a través del polímetro o multímetro; también pueden ser medidas con un óhmetro, que mide resistencia o continuidad, pues en cierta forma la continuidad es una propiedad contraria a la resistencia y muestra que el circuito está cerrado. 
         p.mt-4 Al hablar de continuidad, es importante tener en cuenta que los metales se caracterizan por la conducción y que el mejor conductor es el oro, seguido por la plata y el cobre; al ser los dos primeros de alto costo, por lo general, los circuitos electrónicos están diseñados con cobre. 
-      .tarjeta.color-acento-botones--borde.p-4(titulo="6. Ley de ohm")
+      .tarjeta.color-acento-botones--borde.p-4(titulo="6. Ley de Ohm")
         p La Ley de Ohm es una ley básica pero muy importante para la comprensión de los conceptos de los circuitos electrónicos.  
         p.mt-4 Fue Georg Simon Ohm, físico y matemático alemán, quien descubrió que si un resistor R tiene un voltaje v(t) aplicado y una corriente i(t) que lo recorre, entonces, si uno es la causa, el otro es el efecto, definiendo la siguiente ecuación:
         .row.mt-4
@@ -227,14 +227,14 @@
               .col-10.px-4
                 .h5.m-0 Conociendo la resistencia eléctrica y la corriente:
               .col-2
-                .h5.m-0 P = R x I2
+                .h5.m-0 P = R x I<sup>2</sup>
         .row.mt-3
           .col-8.offset-2.rounded-25.bg-amarillo.py-3.px-3
             .row
               .col-10.px-4
                 .h5.m-0 Conociendo el voltaje y la resistencia eléctrica:
               .col-2
-                .h5.m-0 P = V2/R
+                .h5.m-0 P = V<sup>2</sup>/R
         p.mt-4 En las anteriores fórmulas, únicamente se sustituyeron las incógnitas correspondientes, empleando la fórmula de la ley de Ohm.
     .row.mt-4
       .col-12.mt-4
@@ -262,10 +262,8 @@
         .bloque-texto-d.color-acento-botones.p-4
           .bloque-texto-d__texto.mb-2
             i.fas.fa-quote-left
-            .h4 Quizá la forma más antigua que conoció el hombre de experimentar fenómenos eléctricos fue con la fricción o frotación. La historia dice que fue Tales de Mileto quien observó dicho fenómeno al frotar un trozo de ámbar con un trozo de piel. Tras la frotación, observó que podían atraerse pequeños objetos y llamó a esa fuerza invisible elektron
+            .h4 Quizá la forma más antigua que conoció el hombre de experimentar fenómenos eléctricos fue con la fricción o frotación. La historia dice que fue Tales de Mileto quien observó dicho fenómeno al frotar un trozo de ámbar con un trozo de piel. Tras la frotación, observó que podían atraerse pequeños objetos y llamó a esa fuerza invisible elektron —ámbar—. (Arboledas, 2014).
             i.fas.fa-quote-right
-          .bloque-texto-d__autor 
-            p.mb-0  —ámbar—. (Arboledas, 2014).
     .row.mt-5 
       .col-12.bg-color-acento-botones.rounded-10
           .row

@@ -186,8 +186,7 @@ export default {
       texto:
         'Hernández, N., Medel, P. y Ramírez, J. (2003). Dispositivos y circuitos electrónicos. Prácticas de laboratorio. Universidad Nacional Autónoma de México.',
       tipo: 'PDF',
-      link:
-        'http://olimpia.cuautitlan2.unam.mx/pagina_ingenieria/electronica/prac/practicas/3/M_Dispositivos_Circuitos_Electronicos_2021-1.pdf',
+      link: '/downloads/M_Dispositivos_Circuitos_Electronicos.pdf',
     },
     {
       texto: 'Arboledas, D. (2014). Electricidad básica. RA-MA.',
@@ -197,34 +196,95 @@ export default {
     },
   ],
   creditos: {
-    liderEquipo: {
-      nombre: 'Andrés Aurelio Alarcón Tique',
-      cargo: 'Experto técnico',
-      centro:
-        'Regional Distrito Capital Centro de Electricidad, Electrónica y Telecomunicaciones.',
-    },
-    contenidoInstruccional: [
+    liderEquipo: [
       {
-        nombre: 'Gewin Alfonso Fernández Cáceres',
-        cargo: 'Experto temático',
-        centro: 'Regional Caribe Centro de Tecnología Colombo Alemán.',
-      },
-      {
-        nombre: 'Alix Cecilia Chinchilla Rueda',
-        cargo: 'Evaluador Instruccional',
-        centro: 'Regional Distrito Capital. Centro de Gestión Industrial',
+        nombre: 'Maria Camila García Santamaría',
+        cargo: 'Líder del equipo',
+        centro: 'Dirección General',
       },
     ],
-    desarrolloProducto: [
+    contenidoInstruccional: [
+      {
+        nombre: 'Rafael Neftalí Lizcano Reyes ',
+        cargo: 'Asesor metodológico y pedagógico',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Andrés Aurelio Alarcón Tique',
+        cargo: 'Experto técnico',
+        centro:
+          'Regional Distrito Capital - Centro de Electricidad, Electrónica y Telecomunicaciones',
+      },
+      {
+        nombre: 'Gewin Alfonso Fernández Cáceres',
+        cargo: 'Experto técnico',
+        centro: 'Regional Caribe - Centro de Tecnología Colombo Alemán',
+      },
       {
         nombre: 'Miroslava González Hernández',
         cargo: 'Diseñador y evaluador instruccional',
-        centro: 'Regional Distrito Capital. Centro de Gestión Industrial',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
+      },
+      {
+        nombre: 'Alix Cecilia Chinchilla Rueda',
+        cargo: 'Evaluador instruccional',
+        centro: 'Regional Distrito Capital - Centro de Gestión Industrial',
       },
       {
         nombre: 'Uriel Darío González Montoya',
         cargo: 'Revisión y corrección de estilo',
         centro: 'Regional Tolima – Centro Agroindustrial La Granja',
+      },
+    ],
+    desarrolloProducto: [
+      {
+        nombre: 'Francisco José Lizcano Reyes',
+        cargo: 'Responsable del equipo',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Leyson Fabian Castaño Perez',
+        cargo: 'Soporte organizacional',
+        centro: 'Regional Tolima - Centro de Comercio y Servicios',
+      },
+      {
+        nombre: ['Jorge Armando Villamizar Moreno'],
+        cargo: 'Diseño web',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Zuleidy Maria Ruiz Torres',
+        cargo: 'Producción audiovisual',
+        centro: 'Regional Tolima - Centro de Comercio y Servicios',
+      },
+      {
+        nombre: [
+          'Ángela María Maldonado Jaime',
+          'Gilberto Junior Rodríguez Rodríguez',
+          'José Jaime Luis Tang Pinzón',
+          'María Carolina Tamayo Lopez ',
+          'Oleg Litvin',
+          'Ricardo Vásquez Arroyave',
+          'Wilson Andrés Arenales Cáceres',
+        ],
+        cargo: 'Producción audiovisual',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Lizeth Karina Manchego Suárez',
+        cargo: 'Desarrollo front-end',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'María Isabel Román Rueda',
+        cargo: 'Validación de diseño y contenido',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
       },
     ],
     gestoresRepositorio: [
