@@ -8,7 +8,7 @@
         span
           i.fas.fa-info
       h1 Introducción
-    p.mt-4 #[strong Antes de ingresar en materia de contenidos], es importante conocer el porqué de la importancia de la electrónica y su nacimiento. El siguiente video es un repaso de la historia y evolución de la misma.
+    p.mt-4 #[strong Antes de ingresar en materia de contenidos], es importante conocer el porqué de la importancia de la electrónica y su nacimiento. La siguiente infografía es un repaso de la historia y evolución de la misma.
     .tarjeta.color-acento-botones.p-3.mb-5
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
@@ -16,7 +16,7 @@
         .col
           .row.justify-content-between.align-items-center
             .col.mb-3.mb-sm-0
-              p #[strong La electronica en la evolucion del tamaño de los aparatos eléctricos.]
+              p #[strong La electrónica en la evolución del tamaño de los aparatos eléctricos.]
             .col-sm-auto
               a.boton.color-acento-contenido(:href="obtenerLink('/downloads/InfografiaCF1.pdf')" target="_blank")
                 span Descargar
