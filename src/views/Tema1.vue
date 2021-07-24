@@ -113,7 +113,7 @@
           img(src="@/assets/template/tema-1-11.png", alt="Texto que describa la imagen")
     .row.mt-5
       .col-10.col-lg-8.offset-1.offset-lg-2
-        p.mb-4.borde-secundario-izq.mx-3.px-3 #[strong Figura:] Esquema de corriente eléctrica
+        p.mb-4.borde-secundario-izq.mx-3.px-3 Esquema de corriente eléctrica
         figure.mt-4
           img(src="@/assets/template/tema-1-12.png", alt="Texto que describa la imagen")
         figcaption Nota: Tomado de Wilson15b. (2020)
@@ -125,7 +125,7 @@
             .h5.m-0 I(t) = dq(t)/dt
           p.mt-5 Las unidades de corriente culombios por segundo, C/s, se denominan amperes o amperios (A), en honor al físico francés André Ampère; pero fue Benjamin Franklin quien seleccionó como sentido de la corriente aquel en el cual fluiría la carga positiva.
           .col-10.col-lg-8.offset-1.offset-lg-2
-            p.mb-4.borde-secundario-izq.mx-3.px-3 #[strong Figura:] Gráfica de fuente de corriente
+            p.mb-4.borde-secundario-izq.mx-3.px-3 Gráfica de fuente de corriente
             figure.mt-4
               img(src="@/assets/template/tema-1-13.png", alt="Texto que describa la imagen")
             figcaption Nota: Tomada de Fernández (2019).
@@ -137,7 +137,7 @@
         p.mt-3 El voltaje también es conocido como tensión o caída de tensión, debido a la polarización, y es muy utilizado en el diseño de elementos para circuitos electrónicos, en unión con el tema de corriente inversa, el cual se refiere a la corriente con polarización diferente a la de la tensión, y es adicionada con la corriente producida térmicamente y la corriente superficial de fugas.
         p.mt-3 La tensión a partir de la cual la corriente empieza a incrementar rápidamente se denomina tensión de umbral del diodo, que es igual a la barrera de potencial.
         .col-10.col-lg-8.offset-1.offset-lg-2
-          p.mb-4.borde-secundario-izq.mx-3.px-3 #[strong Figura:] Gráfica de fuente de voltaje
+          p.mb-4.borde-secundario-izq.mx-3.px-3 Gráfica de fuente de voltaje
           figure.mt-4
             img(src="@/assets/template/tema-1-14.png", alt="Texto que describa la imagen")
           figcaption Nota: Tomado de Tutoriales de electrónica básica (2019).
@@ -158,7 +158,7 @@
           .col-4.col-lg-3.offset-4.offset-lg-4.rounded-25.bg-amarillo.py-3.px-3.text-center
             .h5.m-0 R = v(t)/i(t)
           .col-10.col-lg-8.offset-1.offset-lg-2.mt-4
-            p.mb-4.borde-secundario-izq.mx-3.px-3 #[strong Figura:] Gráfica representativa de la resistencia
+            p.mb-4.borde-secundario-izq.mx-3.px-3 Gráfica representativa de la resistencia
             figure.mt-4
               img(src="@/assets/template/tema-1-15.png", alt="Texto que describa la imagen")
             figcaption Nota: Tomada de Julián (s. f.).
@@ -176,7 +176,7 @@
         p.mt-4 La unidad de potencia (julios por segundos) se denomina watt, en inglés, o vatios.
         .row.mt-4
           .col-10.col-lg-8.offset-1.offset-lg-2.mt-4
-            p.mb-4.borde-secundario-izq.mx-3.px-3 #[strong Figura:] Potencia absorbida por un elemento
+            p.mb-4.borde-secundario-izq.mx-3.px-3 Potencia absorbida por un elemento
             figure.mt-4
               img(src="@/assets/template/tema-1-16.png", alt="Texto que describa la imagen")
             figcaption Nota: Tomada de Acosta (s. f.).

@@ -260,16 +260,45 @@ export default {
         cargo: 'Producción audiovisual',
         centro: 'Regional Tolima - Centro de Comercio y Servicios',
       },
+
       {
-        nombre: [
-          'Ángela María Maldonado Jaime',
-          'Gilberto Junior Rodríguez Rodríguez',
-          'José Jaime Luis Tang Pinzón',
-          'María Carolina Tamayo Lopez ',
-          'Oleg Litvin',
-          'Ricardo Vásquez Arroyave',
-          'Wilson Andrés Arenales Cáceres',
-        ],
+        nombre: 'Ángela María Maldonado Jaime',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Gilberto Junior Rodríguez Rodríguez',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'José Jaime Luis Tang Pinzón',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'María Carolina Tamayo Lopez ',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Oleg Litvin',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Ricardo Vásquez Arroyave',
+        cargo: 'Producción audiovisual',
+        centro:
+          'Regional Santander - Centro Industrial del Diseño y la Manufactura',
+      },
+      {
+        nombre: 'Wilson Andrés Arenales Cáceres',
         cargo: 'Producción audiovisual',
         centro:
           'Regional Santander - Centro Industrial del Diseño y la Manufactura',
