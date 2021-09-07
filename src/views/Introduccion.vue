@@ -23,7 +23,7 @@
                 i.fas.fa-file-download
     figure.mt-5
       .video
-        iframe(width="560" height="315" src="https://www.youtube.com/embed/KiK2FhtJ0M0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
+        iframe(width="560" height="315" src="https://www.youtube.com/embed/0pbCUzGysts" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen)
     .row.mt-4
       .col-4.col-lg-4.offset-4.offset-lg-0
         figure
