@@ -130,12 +130,6 @@ export default {
         'https://www.nist.gov/system/files/documents/2017/05/09/NIST-SP-304A-Brief-History-Measurement-Systems-w-Color-Chart-1997.pdf',
     },
     {
-      referencia:
-        'Tutoriales de electrónica básica. (2019). Fuente de voltaje como fuentes independientes y dependientes. ',
-      link:
-        'http://tutorialesdeelectronicabasica.blogspot.com/2019/07/fuente-de-voltaje-como-fuentes.html',
-    },
-    {
       referencia: 'Wikipedia. (2021). Función continua. ',
       link: 'https://es.wikipedia.org/wiki/Funci%C3%B3n_continua',
     },
