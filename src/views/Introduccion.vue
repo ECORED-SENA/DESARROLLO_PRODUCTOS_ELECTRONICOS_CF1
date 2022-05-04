@@ -18,7 +18,7 @@
             .col.mb-3.mb-sm-0
               p #[strong La electrónica en la evolución del tamaño de los aparatos eléctricos.]
             .col-sm-auto
-              a.boton.color-acento-contenido(:href="obtenerLink('/downloads/InfografiaCF1.pdf')" target="_blank")
+              a.boton.color-acento-contenido(:href="obtenerLink('downloads/InfografiaCF1.pdf')" target="_blank")
                 span Descargar
                 i.fas.fa-file-download
     figure.mt-5

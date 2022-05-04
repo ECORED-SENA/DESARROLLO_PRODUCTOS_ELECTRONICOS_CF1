@@ -186,7 +186,7 @@ export default {
       texto:
         'Hernández, N., Medel, P. y Ramírez, J. (2003). Dispositivos y circuitos electrónicos. Prácticas de laboratorio. Universidad Nacional Autónoma de México.',
       tipo: 'PDF',
-      link: '/downloads/M_Dispositivos_Circuitos_Electronicos.pdf',
+      descarga: 'downloads/M_Dispositivos_Circuitos_Electronicos.pdf',
     },
     {
       texto: 'Arboledas, D. (2014). Electricidad básica. RA-MA.',
